@@ -1,3 +1,8 @@
+# Update
+Thought I'd update this just to add a notice here that Tor Buttons new approach to circuit isolation by first party domain means that this no longer works.
+
+This still works if you're not using Tor Browser.
+
 # Onion Oracle
 #### or rendezvous circuit build time as an oracle through XHR
 
