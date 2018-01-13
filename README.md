@@ -1,5 +1,5 @@
 # Update
-Thought I'd update this just to add a notice here that Tor Buttons new approach to circuit isolation by first party domain means that this no longer works.
+Thought I'd update this just to add a notice here that Tor Buttons new approach to circuit isolation by first party domain means that this no longer works as well as it used to but you may still be able to time the HSDir descriptor fetch.
 
 This still works if you're not using Tor Browser.
 
